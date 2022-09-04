@@ -1,0 +1,15 @@
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic2/Tuples/obj/Debug/net6.0/Tuples.csproj.AssemblyReference.cache
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic2/Tuples/obj/Debug/net6.0/Tuples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic2/Tuples/obj/Debug/net6.0/Tuples.AssemblyInfoInputs.cache
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic2/Tuples/obj/Debug/net6.0/Tuples.AssemblyInfo.cs
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic2/Tuples/obj/Debug/net6.0/Tuples.csproj.CoreCompileInputs.cache
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic2/Tuples/bin/Debug/net6.0/Tuples
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic2/Tuples/bin/Debug/net6.0/Tuples.deps.json
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic2/Tuples/bin/Debug/net6.0/Tuples.runtimeconfig.json
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic2/Tuples/bin/Debug/net6.0/Tuples.dll
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic2/Tuples/bin/Debug/net6.0/Tuples.pdb
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic2/Tuples/obj/Debug/net6.0/Tuples.dll
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic2/Tuples/obj/Debug/net6.0/refint/Tuples.dll
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic2/Tuples/obj/Debug/net6.0/Tuples.pdb
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic2/Tuples/obj/Debug/net6.0/Tuples.genruntimeconfig.cache
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic2/Tuples/obj/Debug/net6.0/ref/Tuples.dll

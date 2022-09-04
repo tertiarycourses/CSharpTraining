@@ -1,0 +1,15 @@
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Namespace/bin/Debug/net6.0/Namespace
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Namespace/bin/Debug/net6.0/Namespace.deps.json
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Namespace/bin/Debug/net6.0/Namespace.runtimeconfig.json
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Namespace/bin/Debug/net6.0/Namespace.dll
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Namespace/bin/Debug/net6.0/Namespace.pdb
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Namespace/obj/Debug/net6.0/Namespace.csproj.AssemblyReference.cache
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Namespace/obj/Debug/net6.0/Namespace.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Namespace/obj/Debug/net6.0/Namespace.AssemblyInfoInputs.cache
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Namespace/obj/Debug/net6.0/Namespace.AssemblyInfo.cs
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Namespace/obj/Debug/net6.0/Namespace.csproj.CoreCompileInputs.cache
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Namespace/obj/Debug/net6.0/Namespace.dll
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Namespace/obj/Debug/net6.0/refint/Namespace.dll
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Namespace/obj/Debug/net6.0/Namespace.pdb
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Namespace/obj/Debug/net6.0/Namespace.genruntimeconfig.cache
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Namespace/obj/Debug/net6.0/ref/Namespace.dll

@@ -1,0 +1,15 @@
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic2/Array/bin/Debug/net6.0/Array
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic2/Array/bin/Debug/net6.0/Array.deps.json
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic2/Array/bin/Debug/net6.0/Array.runtimeconfig.json
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic2/Array/bin/Debug/net6.0/Array.dll
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic2/Array/bin/Debug/net6.0/Array.pdb
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic2/Array/obj/Debug/net6.0/Array.csproj.AssemblyReference.cache
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic2/Array/obj/Debug/net6.0/Array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic2/Array/obj/Debug/net6.0/Array.AssemblyInfoInputs.cache
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic2/Array/obj/Debug/net6.0/Array.AssemblyInfo.cs
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic2/Array/obj/Debug/net6.0/Array.csproj.CoreCompileInputs.cache
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic2/Array/obj/Debug/net6.0/Array.dll
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic2/Array/obj/Debug/net6.0/refint/Array.dll
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic2/Array/obj/Debug/net6.0/Array.pdb
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic2/Array/obj/Debug/net6.0/Array.genruntimeconfig.cache
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic2/Array/obj/Debug/net6.0/ref/Array.dll

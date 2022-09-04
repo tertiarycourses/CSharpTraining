@@ -1,0 +1,15 @@
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Loop/bin/Debug/net6.0/Loop
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Loop/bin/Debug/net6.0/Loop.deps.json
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Loop/bin/Debug/net6.0/Loop.runtimeconfig.json
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Loop/bin/Debug/net6.0/Loop.dll
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Loop/bin/Debug/net6.0/Loop.pdb
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Loop/obj/Debug/net6.0/Loop.csproj.AssemblyReference.cache
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Loop/obj/Debug/net6.0/Loop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Loop/obj/Debug/net6.0/Loop.AssemblyInfoInputs.cache
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Loop/obj/Debug/net6.0/Loop.AssemblyInfo.cs
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Loop/obj/Debug/net6.0/Loop.csproj.CoreCompileInputs.cache
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Loop/obj/Debug/net6.0/Loop.dll
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Loop/obj/Debug/net6.0/refint/Loop.dll
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Loop/obj/Debug/net6.0/Loop.pdb
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Loop/obj/Debug/net6.0/Loop.genruntimeconfig.cache
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Loop/obj/Debug/net6.0/ref/Loop.dll

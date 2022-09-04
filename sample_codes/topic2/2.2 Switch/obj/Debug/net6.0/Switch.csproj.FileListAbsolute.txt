@@ -1,0 +1,15 @@
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Switch/bin/Debug/net6.0/Switch
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Switch/bin/Debug/net6.0/Switch.deps.json
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Switch/bin/Debug/net6.0/Switch.runtimeconfig.json
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Switch/bin/Debug/net6.0/Switch.dll
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Switch/bin/Debug/net6.0/Switch.pdb
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Switch/obj/Debug/net6.0/Switch.csproj.AssemblyReference.cache
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Switch/obj/Debug/net6.0/Switch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Switch/obj/Debug/net6.0/Switch.AssemblyInfoInputs.cache
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Switch/obj/Debug/net6.0/Switch.AssemblyInfo.cs
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Switch/obj/Debug/net6.0/Switch.csproj.CoreCompileInputs.cache
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Switch/obj/Debug/net6.0/Switch.dll
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Switch/obj/Debug/net6.0/refint/Switch.dll
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Switch/obj/Debug/net6.0/Switch.pdb
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Switch/obj/Debug/net6.0/Switch.genruntimeconfig.cache
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Switch/obj/Debug/net6.0/ref/Switch.dll

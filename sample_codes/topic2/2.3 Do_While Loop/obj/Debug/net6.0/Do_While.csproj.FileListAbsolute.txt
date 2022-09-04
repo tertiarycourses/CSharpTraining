@@ -1,0 +1,15 @@
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Do_While/obj/Debug/net6.0/Do_While.csproj.AssemblyReference.cache
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Do_While/obj/Debug/net6.0/Do_While.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Do_While/obj/Debug/net6.0/Do_While.AssemblyInfoInputs.cache
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Do_While/obj/Debug/net6.0/Do_While.AssemblyInfo.cs
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Do_While/obj/Debug/net6.0/Do_While.csproj.CoreCompileInputs.cache
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Do_While/bin/Debug/net6.0/Do_While
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Do_While/bin/Debug/net6.0/Do_While.deps.json
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Do_While/bin/Debug/net6.0/Do_While.runtimeconfig.json
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Do_While/bin/Debug/net6.0/Do_While.dll
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Do_While/bin/Debug/net6.0/Do_While.pdb
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Do_While/obj/Debug/net6.0/Do_While.dll
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Do_While/obj/Debug/net6.0/refint/Do_While.dll
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Do_While/obj/Debug/net6.0/Do_While.pdb
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Do_While/obj/Debug/net6.0/Do_While.genruntimeconfig.cache
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Do_While/obj/Debug/net6.0/ref/Do_While.dll

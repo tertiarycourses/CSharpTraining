@@ -1,0 +1,15 @@
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic5/Exception/bin/Debug/net6.0/Exception
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic5/Exception/bin/Debug/net6.0/Exception.deps.json
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic5/Exception/bin/Debug/net6.0/Exception.runtimeconfig.json
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic5/Exception/bin/Debug/net6.0/Exception.dll
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic5/Exception/bin/Debug/net6.0/Exception.pdb
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic5/Exception/obj/Debug/net6.0/Exception.csproj.AssemblyReference.cache
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic5/Exception/obj/Debug/net6.0/Exception.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic5/Exception/obj/Debug/net6.0/Exception.AssemblyInfoInputs.cache
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic5/Exception/obj/Debug/net6.0/Exception.AssemblyInfo.cs
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic5/Exception/obj/Debug/net6.0/Exception.csproj.CoreCompileInputs.cache
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic5/Exception/obj/Debug/net6.0/Exception.dll
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic5/Exception/obj/Debug/net6.0/refint/Exception.dll
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic5/Exception/obj/Debug/net6.0/Exception.pdb
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic5/Exception/obj/Debug/net6.0/Exception.genruntimeconfig.cache
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic5/Exception/obj/Debug/net6.0/ref/Exception.dll

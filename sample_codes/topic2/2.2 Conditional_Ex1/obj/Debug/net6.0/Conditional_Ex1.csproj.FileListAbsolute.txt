@@ -1,0 +1,15 @@
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Conditional_Ex1/obj/Debug/net6.0/Conditional_Ex1.csproj.AssemblyReference.cache
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Conditional_Ex1/obj/Debug/net6.0/Conditional_Ex1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Conditional_Ex1/obj/Debug/net6.0/Conditional_Ex1.AssemblyInfoInputs.cache
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Conditional_Ex1/obj/Debug/net6.0/Conditional_Ex1.AssemblyInfo.cs
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Conditional_Ex1/obj/Debug/net6.0/Conditional_Ex1.csproj.CoreCompileInputs.cache
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Conditional_Ex1/bin/Debug/net6.0/Conditional_Ex1
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Conditional_Ex1/bin/Debug/net6.0/Conditional_Ex1.deps.json
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Conditional_Ex1/bin/Debug/net6.0/Conditional_Ex1.runtimeconfig.json
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Conditional_Ex1/bin/Debug/net6.0/Conditional_Ex1.dll
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Conditional_Ex1/bin/Debug/net6.0/Conditional_Ex1.pdb
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Conditional_Ex1/obj/Debug/net6.0/Conditional_Ex1.dll
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Conditional_Ex1/obj/Debug/net6.0/refint/Conditional_Ex1.dll
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Conditional_Ex1/obj/Debug/net6.0/Conditional_Ex1.pdb
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Conditional_Ex1/obj/Debug/net6.0/Conditional_Ex1.genruntimeconfig.cache
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Conditional_Ex1/obj/Debug/net6.0/ref/Conditional_Ex1.dll

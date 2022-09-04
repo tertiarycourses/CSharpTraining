@@ -1,0 +1,15 @@
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic2/Foreach_Loop_Ex/bin/Debug/net6.0/Foreach_Loop_Ex
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic2/Foreach_Loop_Ex/bin/Debug/net6.0/Foreach_Loop_Ex.deps.json
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic2/Foreach_Loop_Ex/bin/Debug/net6.0/Foreach_Loop_Ex.runtimeconfig.json
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic2/Foreach_Loop_Ex/bin/Debug/net6.0/Foreach_Loop_Ex.dll
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic2/Foreach_Loop_Ex/bin/Debug/net6.0/Foreach_Loop_Ex.pdb
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic2/Foreach_Loop_Ex/obj/Debug/net6.0/Foreach_Loop_Ex.csproj.AssemblyReference.cache
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic2/Foreach_Loop_Ex/obj/Debug/net6.0/Foreach_Loop_Ex.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic2/Foreach_Loop_Ex/obj/Debug/net6.0/Foreach_Loop_Ex.AssemblyInfoInputs.cache
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic2/Foreach_Loop_Ex/obj/Debug/net6.0/Foreach_Loop_Ex.AssemblyInfo.cs
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic2/Foreach_Loop_Ex/obj/Debug/net6.0/Foreach_Loop_Ex.csproj.CoreCompileInputs.cache
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic2/Foreach_Loop_Ex/obj/Debug/net6.0/Foreach_Loop_Ex.dll
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic2/Foreach_Loop_Ex/obj/Debug/net6.0/refint/Foreach_Loop_Ex.dll
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic2/Foreach_Loop_Ex/obj/Debug/net6.0/Foreach_Loop_Ex.pdb
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic2/Foreach_Loop_Ex/obj/Debug/net6.0/Foreach_Loop_Ex.genruntimeconfig.cache
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic2/Foreach_Loop_Ex/obj/Debug/net6.0/ref/Foreach_Loop_Ex.dll

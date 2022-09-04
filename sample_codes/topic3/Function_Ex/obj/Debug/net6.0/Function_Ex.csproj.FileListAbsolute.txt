@@ -1,0 +1,15 @@
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic3/Function_Ex/bin/Debug/net6.0/Function_Ex
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic3/Function_Ex/bin/Debug/net6.0/Function_Ex.deps.json
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic3/Function_Ex/bin/Debug/net6.0/Function_Ex.runtimeconfig.json
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic3/Function_Ex/bin/Debug/net6.0/Function_Ex.dll
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic3/Function_Ex/bin/Debug/net6.0/Function_Ex.pdb
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic3/Function_Ex/obj/Debug/net6.0/Function_Ex.csproj.AssemblyReference.cache
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic3/Function_Ex/obj/Debug/net6.0/Function_Ex.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic3/Function_Ex/obj/Debug/net6.0/Function_Ex.AssemblyInfoInputs.cache
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic3/Function_Ex/obj/Debug/net6.0/Function_Ex.AssemblyInfo.cs
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic3/Function_Ex/obj/Debug/net6.0/Function_Ex.csproj.CoreCompileInputs.cache
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic3/Function_Ex/obj/Debug/net6.0/Function_Ex.dll
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic3/Function_Ex/obj/Debug/net6.0/refint/Function_Ex.dll
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic3/Function_Ex/obj/Debug/net6.0/Function_Ex.pdb
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic3/Function_Ex/obj/Debug/net6.0/Function_Ex.genruntimeconfig.cache
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Training/C# Essential Training/sample_codes/topic3/Function_Ex/obj/Debug/net6.0/ref/Function_Ex.dll

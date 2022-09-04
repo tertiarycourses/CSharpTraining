@@ -1,0 +1,15 @@
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Switch_Ex/obj/Debug/net6.0/Switch_Ex.csproj.AssemblyReference.cache
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Switch_Ex/obj/Debug/net6.0/Switch_Ex.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Switch_Ex/obj/Debug/net6.0/Switch_Ex.AssemblyInfoInputs.cache
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Switch_Ex/obj/Debug/net6.0/Switch_Ex.AssemblyInfo.cs
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Switch_Ex/obj/Debug/net6.0/Switch_Ex.csproj.CoreCompileInputs.cache
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Switch_Ex/bin/Debug/net6.0/Switch_Ex
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Switch_Ex/bin/Debug/net6.0/Switch_Ex.deps.json
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Switch_Ex/bin/Debug/net6.0/Switch_Ex.runtimeconfig.json
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Switch_Ex/bin/Debug/net6.0/Switch_Ex.dll
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Switch_Ex/bin/Debug/net6.0/Switch_Ex.pdb
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Switch_Ex/obj/Debug/net6.0/Switch_Ex.dll
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Switch_Ex/obj/Debug/net6.0/refint/Switch_Ex.dll
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Switch_Ex/obj/Debug/net6.0/Switch_Ex.pdb
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Switch_Ex/obj/Debug/net6.0/Switch_Ex.genruntimeconfig.cache
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/Switch_Ex/obj/Debug/net6.0/ref/Switch_Ex.dll

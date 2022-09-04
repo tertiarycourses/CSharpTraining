@@ -1,0 +1,30 @@
+/Users/alfred/Desktop/HelloWorld/bin/Debug/net6.0/HelloWorld
+/Users/alfred/Desktop/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/Users/alfred/Desktop/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/Users/alfred/Desktop/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/Users/alfred/Desktop/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/Users/alfred/Desktop/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/alfred/Desktop/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alfred/Desktop/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/alfred/Desktop/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/Users/alfred/Desktop/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/alfred/Desktop/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/Users/alfred/Desktop/HelloWorld/obj/Debug/net6.0/refint/HelloWorld.dll
+/Users/alfred/Desktop/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/Users/alfred/Desktop/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
+/Users/alfred/Desktop/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/HelloWorld/bin/Debug/net6.0/HelloWorld
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/HelloWorld/obj/Debug/net6.0/refint/HelloWorld.dll
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
+/Users/alfred/Documents/Documents – Alfred’s MacBook Pro/Supporting Document/Youtube/script/C#/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
